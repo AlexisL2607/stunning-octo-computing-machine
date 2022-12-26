@@ -1,0 +1,8 @@
+"dayz"
+{
+	"title"		"GMod-Z"
+	"name"		"GMod-Z"
+	"version"	"1.0"
+	"menusystem""1"
+	"workshopid""2617928645"
+}
